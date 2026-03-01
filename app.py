@@ -160,5 +160,5 @@ if __name__ == "__main__":
     print("=" * 55)
     app.run(debug=True, host="0.0.0.0", port=5001)
 
-    #print("  🚀  HrVr Digital Solutions — Server Stopped  🚀")
+    #HrVr Digital Solutions — Server Stopped
     
