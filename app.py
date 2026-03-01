@@ -30,7 +30,7 @@ def send_mail():
     mail.send(msg)
     return "Mail Sent Successfully!"
 # ─────────────────────────────────────────────
-# Portfolio / Services Data####
+# Portfolio / Services Data
 # ─────────────────────────────────────────────
 
 TECH_STACK = {
